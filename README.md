@@ -6,6 +6,8 @@
 
 Welcome to my GitHub space! I'm a passionate Java FullStack Developer, constantly exploring the realms of Programming Languages.
 
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingpg&label=Profile%20views&color=0e75b6&style=flat" alt="codingpg" /> </p>
 
 <p align="left"> <a href="https://twitter.com/prathamdukhande" target="blank"><img src="https://img.shields.io/twitter/follow/prathamdukhande?logo=twitter&style=for-the-badge" alt="prathamdukhande" /></a> </p>
@@ -61,6 +63,12 @@ And many more!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-dukhande-308599296/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/prathamdukhande)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://prathams-design.netlify.app/)
+
+---
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingpg&show_icons=true&locale=en&layout=compact" alt="codingpg" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingpg&" alt="codingpg" /></p>
 
 ---
 
