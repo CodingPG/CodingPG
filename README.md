@@ -6,6 +6,11 @@
 
 Welcome to my GitHub space! I'm a passionate Java FullStack Developer, constantly exploring the realms of Programming Languages.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codingpg&label=Profile%20views&color=0e75b6&style=flat" alt="codingpg" /> </p>
+
+<p align="left"> <a href="https://twitter.com/prathamdukhande" target="blank"><img src="https://img.shields.io/twitter/follow/prathamdukhande?logo=twitter&style=for-the-badge" alt="prathamdukhande" /></a> </p>
+
+
 ---
 
 ## 🎨 About Me:
